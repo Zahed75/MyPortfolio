@@ -374,6 +374,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   color: #45505b;
+  
 }
 
 .section-title h2::before {
@@ -400,6 +401,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
